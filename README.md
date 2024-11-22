@@ -1,3 +1,0 @@
-A very much normal supermarket website that my team had developed for a project...
-
-PS: Our first Django project ever :P
